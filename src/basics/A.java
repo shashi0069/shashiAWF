@@ -15,7 +15,7 @@ public class A {
 	    
 
 	public static void main(String[] args) {
-		WebDriver driver=new ChromeDriver();
+		
 		WebDriver driver1 =new FirefoxDriver();
 		driver.get("https://www.google.com/");
 		//Dimension d=new Dimension(600,900);
